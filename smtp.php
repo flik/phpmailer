@@ -27,9 +27,9 @@ $mail->Port = 587; //25;
 //Whether to use SMTP authentication
 $mail->SMTPAuth = true;
 //Username to use for SMTP authentication
-$mail->Username = "ashfaq@recruitbpm.com";
+$mail->Username = "ashfaq@recruitbpmxxxx.com";
 //Password to use for SMTP authentication
-$mail->Password = "word2pass";
+$mail->Password = "xxxxxxx";
 //Set who the message is to be sent from
 $mail->setFrom('info@asfhaq.com', 'First Last');
 //Set an alternative reply-to address
